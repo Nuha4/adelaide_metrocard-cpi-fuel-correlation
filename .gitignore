@@ -5,7 +5,6 @@ __pycache__/
 
 # Data files
 *.csv
-!combined_metrocard_monthly.csv  
 *.xlsx
 *.xls
 # Jupyter Notebook checkpoints
