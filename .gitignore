@@ -9,6 +9,7 @@ __pycache__/
 *.xls
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+combined_metrocard_monthly.csv
 
 # Environment files
 .env
